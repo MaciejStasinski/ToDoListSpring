@@ -11,8 +11,11 @@
 	<groupId>com.example</groupId>
 	<artifactId>ToDoListSpring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
+
 	<name>ToDoListSpring</name>
 	<description>ToDoList - Spring version</description>
+
 	<properties>
 		<java.version>11</java.version>
 	</properties>
